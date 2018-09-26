@@ -10,6 +10,3 @@
 [submodule "vim-pathogen"]
 	path = vim-pathogen
 	url = https://github.com/tpope/vim-pathogen.git
-[submodule "/home/gjerjens/.vim/bundle/ansible-vim"]
-	path = /home/gjerjens/.vim/bundle/ansible-vim
-	url = https://github.com/pearofducks/ansible-vim
